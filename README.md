@@ -6,7 +6,6 @@ I also used the setTimeout() method to delay the pager transmission and I includ
 
 ![Untitled design](https://user-images.githubusercontent.com/80925002/218821887-b162368a-1472-4240-8229-db8f67ce62d7.gif)
 
-Live site: 
 
 <h3>Requirements:</h3>
 + Mobile responsive
